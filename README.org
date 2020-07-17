@@ -1,0 +1,3 @@
+vertical-toolbar for Pale Moon.
+
+Forked from Gomita's vertical-toolbar ver.1.0.7 (http://www.xuldev.org/verticaltoolbar/)
